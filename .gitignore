@@ -1,0 +1,14 @@
+# ============
+# Python build
+# ============
+
+build/
+*.egg-info/
+dist/
+
+
+# ==============
+# Jetbrains IDEs
+# ==============
+
+.idea/
